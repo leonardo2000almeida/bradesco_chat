@@ -1,0 +1,14 @@
+.TableMessages {
+  margin-top: 10em;
+
+  > div {
+    display: flex;
+    justify-content: flex-end;
+  }
+}
+
+.body {
+  display: block;
+  height: 30px;
+  overflow-y: scroll;
+}
