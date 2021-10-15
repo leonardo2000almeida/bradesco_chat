@@ -3,30 +3,30 @@
 
 Uma simples dashboard para demonstrar meus conhecimentos com react.
 
-## Run Locally
+## Rodando localmente
 
-Clone the project
+Clone o projeto
 
 ```bash
   git clone  https://github.com/leonardo2000almeida/bradesco_chat.git
 ```
 
-Go to the project directory
+Vá para o diretório do projeto
 
 ```bash
   cd bradesco_chat
 ```
 
-Install dependencies
+Instale as dependências
 
 ```bash
   npm install
 ```
 
-Start the server
+Rode o applicativo
 
 ```bash
-  npm run dev
+  npm start
 ```
 
   
